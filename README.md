@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabrielpriegoo
 - 👀 I’m interested in ReactJs and Python
-- 🌱 I’m currently learning HTML5, CSS3, JS.
+- 🌱 I’m currently learning HTML5, CSS3, JS and PYTHON.
 - 💞️ I’m looking to collaborate on project of rocketseat.
 - 📫 How to reach me ...
 
