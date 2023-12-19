@@ -5,8 +5,8 @@
 <p align="center"></p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=42.5% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=gabrielpriegoo&theme=merko" alt="GitHub Streak" />
-<img width=40.5% align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielpriegoo&show_icons=true&theme=merko" />
+<img width=52.5% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=gabrielpriegoo&theme=merko" alt="GitHub Streak" />
+<img width=50.5% align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielpriegoo&show_icons=true&theme=merko" />
 </div>
  
  &nbsp;
