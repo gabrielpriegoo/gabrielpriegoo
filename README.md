@@ -6,7 +6,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=gabrielpriegoo&theme=merko" alt="GitHub Streak" />
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielpriegoo&show_icons=true&theme=dark" />
+<img width=40% align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielpriegoo&show_icons=true&theme=merko" />
 
 </div>
  
