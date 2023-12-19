@@ -5,7 +5,7 @@
 <p align="center"></p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gabrielpriegoo&theme=merko" alt="GitHub Streak" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=gabrielpriegoo&theme=merko" alt="GitHub Streak" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-gabrielpriegoo.vercel.app/api/top-langs/?username=gabrielpriegoo&show_icons=true&theme=radical&layout=compact" />
 
 </div>
